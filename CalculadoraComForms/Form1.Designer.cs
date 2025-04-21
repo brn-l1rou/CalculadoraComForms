@@ -272,7 +272,6 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.Azure;
             ClientSize = new Size(294, 375);
             Controls.Add(LabelOperador);
             Controls.Add(Igual);
